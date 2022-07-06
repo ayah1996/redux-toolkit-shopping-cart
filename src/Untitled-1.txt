@@ -1,0 +1,14 @@
+
+
+Actions > 
+
+    increment : increase item's count in item cart 
+    decrement : 
+        check if count > 0
+        then
+            decrease item's count in item cart 
+        if count < 0
+        then
+            remove item from cart items list
+    
+    remove item from cart > retrieve cart items without this item (id) > filter function
